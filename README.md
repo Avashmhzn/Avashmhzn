@@ -8,7 +8,7 @@ src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/li
 <img align="left" alt="Aavash | Twitter" width="22px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" />
 <img align="left" alt="Aavash | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 <br /><br />
-[![Gmail Badge](https://img.shields.io/badge/-devilmhzn@gmail.com-139AF2?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:devilmhzn@gmail.com)]
+<img align="left" alt="gmail batch" src="https://img.shields.io/badge/devilmhzn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <br />
 
 ### Languages and tools that I used:
@@ -22,8 +22,11 @@ src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/li
 ## 
 <br />
 
-<img src='https://github-profiletrophy.vercel.app/?username=Avashmhzn&theme=dracula&column=7&margin-w=15&marginh=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
-<img 
-src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff
-7e79990ddf033141/marquee.svg' />
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Avashmhzn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Avashmhzn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avashmhzn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Avashmhzn&icon=0&color=0)](https://visitcount.itsvg.in)
 
