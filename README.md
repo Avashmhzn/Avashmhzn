@@ -2,13 +2,13 @@
 - 👷‍♂️ Currently Learning and building stuffs.
   
 ### Connect with me:
-[<img align="left" alt="Aavash | Facebook" width="22px" src="https://logowik.com/content/uploads/images/facebook-new-2023-icon9594.logowik.com.webp" />]
-[<img align="left" alt="Aavash | LinkedIn" width="22px" 
-src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" />]
-[<img align="left" alt="Aavash | Twitter" width="22px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" />]
-[<img align="left" alt="Aavash | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />]
+<img align="left" alt="Aavash | Facebook" width="22px" src="https://logowik.com/content/uploads/images/facebook-new-2023-icon9594.logowik.com.webp" />
+<img align="left" alt="Aavash | LinkedIn" width="22px" 
+src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" />
+<img align="left" alt="Aavash | Twitter" width="22px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" />
+<img align="left" alt="Aavash | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 <br /><br />
-[![Gmail Badge](https://img.shields.io/badge/-devilmhzn@gmail.com-139AF2?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:devilmhzn@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-devilmhzn@gmail.com-139AF2?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:devilmhzn@gmail.com)
 <br />
 
 ### Languages and tools that I used:
