@@ -2,7 +2,7 @@
 - 👷‍♂️ Currently Learning and building stuffs.
   
 ### Connect with me:
-<img align="left" alt="Aavash | Facebook" width="22px" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png"" />
+<img align="left" alt="Aavash | Facebook" width="22px" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" />
 <img align="left" alt="Aavash | LinkedIn" width="22px" 
 src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" />
 <img align="left" alt="Aavash | Twitter" width="22px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" />
