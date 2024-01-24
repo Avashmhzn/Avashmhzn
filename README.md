@@ -6,9 +6,9 @@
 <img align="left" alt="Aavash | LinkedIn" width="22px" 
 src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />
 <img align="left" alt="Aavash | Twitter" width="22px" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk" />
-<img align="left" alt="Aavash | Instagram" width="22px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000" />
+<img align="left" alt="Aavash | Instagram" width="22px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000"  />
 <br /><br />
-<img align="left" alt="gmail batch" src= />
+[![Gmail Badge](https://img.shields.io/badge/-devilmhzn@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devilmhzn@gmail.com)](mailto:devilmhzn@gmail.com)
 <br />
 
 ### Languages and tools that I used:
