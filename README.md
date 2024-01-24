@@ -20,8 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avashmhzn&show_icons=true&locale=en&layout=compact" alt="avashmhzn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avashmhzn&show_icons=true&locale=en" alt="avashmhzn" /></p>
-<img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avashmhzn&" alt="avashmhzn" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avashmhzn" alt="avashmhzn" /></a> </p>
+
+<img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
