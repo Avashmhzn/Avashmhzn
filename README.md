@@ -24,5 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avashmhzn&layout=compact&theme=tokyonight" alt="avashmhzn" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=dracula&column=7&margin-w=15&margin-h=15%20" alt="avashmhzn" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Avashmhzn&label=Profile%20views&color=0e75b6&style=flat" alt="saljeshh" /> </p>
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
