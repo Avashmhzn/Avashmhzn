@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Developer</h3>
 - 👷‍♂️ Currently Learning and building stuffs.
 
-- 📫 How to reach me **devilmhzn@gmail.com**
+- 📫 How to reach me **mhznaavash68@gmail.com**
 
 - 📄 Know about my experiences [https://peach-diane-marie-71.tiiny.site](https://peach-diane-marie-71.tiiny.site)
 
