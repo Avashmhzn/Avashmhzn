@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mhznaavash68@gmail.com**
 
-- 📄 Know about my experiences [https://peach-diane-marie-71.tiiny.site](https://peach-diane-marie-71.tiiny.site)
+- 📄 Know about my experiences [https://aavashmaharjan.netlify.app/](https://aavashmaharjan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
