@@ -11,7 +11,8 @@
 <a href="https://linkedin.com/in/aavash-maharjan-2927902a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavash-maharjan-2927902a1" height="30" width="40" /></a>
 <a href="https://fb.com/kcaavas.maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kcaavas.maharjan" height="30" width="40" /></a>
 <a href="https://instagram.com/avash_mhzn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avash_mhzn_" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/MKHyhn7q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/MKHyhn7q" height="30" width="40" /></a>
+<!-- Fix 1: Removed duplicate URL prefix in Discord href -->
+<a href="https://discord.com/invite/MKHyhn7q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,9 +22,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avashmhzn&show_icons=true&theme=tokyonight" alt="avashmhzn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avashmhzn&layout=compact&theme=tokyonight" alt="avashmhzn" /></p>
+<!-- Fix 2: Removed invalid layout=compact param from streak stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avashmhzn&theme=tokyonight" alt="avashmhzn" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=dracula&column=7&margin-w=15&margin-h=15%20" alt="avashmhzn" /></a> </p>
+<!-- Fix 3: Removed trailing %20 from margin-h -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=dracula&column=7&margin-w=15&margin-h=15" alt="avashmhzn" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Avashmhzn&label=Profile%20views&color=0e75b6&style=flat" alt="saljeshh" /> </p>
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
