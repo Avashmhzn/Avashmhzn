@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mhznaavash68@gmail.com**
 
-- 📄 Know about my experiences [https://aavashmaharjan.netlify.app/](https://aavashmaharjan.netlify.app/)
+- 📄 Know about my experiences [https://aavashmaharjan.com.np/](https://aavashmaharjan.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
