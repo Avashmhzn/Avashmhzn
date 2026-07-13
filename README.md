@@ -158,7 +158,7 @@ Personal project prototyping a Flutter-based AI chat client, currently in DartPa
 
 ## 🟣 Experience
 
-**Flutter Developer · codesc**
+**Flutter Developer · CodescNepal**
 *Ongoing*
 
 Own architecture, UI, and deployment across multiple production and experimental Flutter apps.
@@ -170,50 +170,6 @@ Own architecture, UI, and deployment across multiple production and experimental
 
 `Flutter` `Dart` `GetX` `BLoC` `Firebase` `REST APIs`
 
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| _Add your achievement_ | _e.g. hackathon placement, published package, notable OSS contribution_ |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-> _Add your real certifications here, grouped by provider — placeholders below so nothing false ships._
-
-**AWS**
-<!-- <img src="https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
-
-**Oracle**
-<!-- <img src="https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> -->
-
-**NPTEL**
-<!-- <img src="https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=for-the-badge"/> -->
-
-**Cisco**
-<!-- <img src="https://img.shields.io/badge/Cisco-Course%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> -->
-
----
-
-## 🟣 Coding Profiles
-
-> _Swap in your real handles — leaving placeholders rather than fabricated stats._
-
-<!--
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-your--handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-your--handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-your--handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-your--handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
--->
-
----
 
 ## 🟣 GitHub Analytics
 
