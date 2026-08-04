@@ -72,10 +72,10 @@
 
 I'm a **Flutter/Dart mobile developer** working with **codesc**, focused on shipping and maintaining production-grade Android/iOS apps end-to-end — architecture, UI, state management, and Play Store deployment. I work across multiple apps in parallel, from customer-facing product platforms to internal dealership/inventory tools, and I'm comfortable owning a feature from API contract to release.
 
-- 🔭 Building and maintaining **Baltra**, a Flutter app with product listings, ratings/reviews, complaint tracking, OTP auth, and media upload/download
-- 🛠️ Deep in **GetX** and **BLoC** state management on real production codebases
-- 🤖 Prototyping AI-assisted tooling — Gemini API-integrated chat UI, on-device PDF generation for AI-structured content
-- 🧩 Comfortable navigating undocumented package APIs and making incremental, non-destructive architectural changes
+- Building and maintaining **Baltra**, a Flutter app with product listings, ratings/reviews, complaint tracking, OTP auth, and media upload/download
+- Deep in **GetX** and **BLoC** state management on real production codebases
+- Prototyping AI-assisted tooling — Gemini API-integrated chat UI, on-device PDF generation for AI-structured content
+- Comfortable navigating undocumented package APIs and making incremental, non-destructive architectural changes
 
 **Open to:** Flutter/mobile engineering roles, freelance app builds, and collaboration on AI-assisted developer tooling.
 
