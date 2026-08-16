@@ -155,20 +155,6 @@ Personal project prototyping a Flutter-based AI chat client, currently in DartPa
 </details>
 
 
-<details>
-<summary><b>🧾 Flutter SalesShop App — Accounting & IMS</b></summary>
-
-<br/>
-
-Company project involving a Flutter-based **Accounting & Inventory Management System (IMS)** designed to manage daily accounting operations, financial records, and business reports.
-
-| Stack                             | Scale           | Notable Work                                                                                                                      |
-| --------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Flutter, Dart, REST API, Firebase | Company Project | Accounting dashboard, day opening/closing, fiscal year management, trial balance, financial reports, Excel export, pie/bar charts |
-
-</details>
-
-
 
 ---
 
@@ -368,6 +354,19 @@ Personal project prototyping a Flutter-based AI chat client, currently in DartPa
 | Stack | Scale | Notable Work |
 |---|---|---|
 | Flutter, Dart, Gemini REST API | Prototype | Direct Gemini REST integration, image input via clipboard/file picker, animated UI, voice input + TTS output |
+
+</details>
+
+<details>
+<summary><b>🧾 Flutter SalesShop App — Accounting & IMS</b></summary>
+
+<br/>
+
+Company project involving a Flutter-based **Accounting & Inventory Management System (IMS)** designed to manage daily accounting operations, financial records, and business reports.
+
+| Stack                             | Scale           | Notable Work                                                                                                                      |
+| --------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Flutter, Dart, REST API, Firebase | Company Project | Accounting dashboard, day opening/closing, fiscal year management, trial balance, financial reports, Excel export, pie/bar charts |
 
 </details>
 
