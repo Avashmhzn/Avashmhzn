@@ -153,6 +153,19 @@ Personal project prototyping a Flutter-based AI chat client, currently in DartPa
 | Flutter, Dart, Gemini REST API | Prototype | Direct Gemini REST integration, image input via clipboard/file picker, animated UI, voice input + TTS output |
 
 </details>
+<details>
+<summary><b>🧾 Flutter SalesShop App</b></summary>
+
+<br/>
+
+Company project involving a Flutter-based accounting and inventory management system (IMS) that helps users manage daily accounting operations, financial records, and reports.
+
+| Stack                             | Scale           | Notable Work                                                                                                                      |
+| --------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Flutter, Dart, REST API, Firebase | Company Project | Accounting dashboard, day opening/closing, fiscal year management, trial balance, financial reports, Excel export, pie/bar charts |
+
+</details>
+
 
 ---
 
