@@ -40,7 +40,7 @@
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Avashmhzn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
+
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg'/> -->
 
