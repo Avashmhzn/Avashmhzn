@@ -319,11 +319,11 @@ I'm a **Flutter/Dart mobile developer** working with **codesc**, focused on ship
 
 <br/>
 
-Production Flutter app (`com.codesc.baltra`) covering product listings, ratings/reviews, complaint tracking, OTP authentication, and media upload/download. Shipped v1.0.0 to the Play Store and own its ongoing architecture.
+Production Flutter app covering product listings, ratings/reviews, complaint tracking, OTP authentication, and media upload/download. Shipped v1.0.0 to the Play Store and own its ongoing architecture.
 
 | Stack | Scale | Notable Work |
 |---|---|---|
-| Flutter, Dart, GetX, GetConnect | Production, live on Play Store | Global auth/session overhaul via custom `ApiClient`; 400/401/403-triggered auto-logout; endpoint-change detection via `SharedPreferences`; iOS OTP autofill (`AutofillGroup` + `AutofillHints.oneTimeCode`); system photo picker + `gal` to cut Android media permissions |
+| Flutter, Dart, GetX, GetConnect | Production | Global auth/session overhaul via custom `ApiClient`; 400/401/403-triggered auto-logout; endpoint-change detection via `SharedPreferences`; iOS OTP autofill (`AutofillGroup` + `AutofillHints.oneTimeCode`); system photo picker + `gal` to cut Android media permissions |
 
 Resolved `minSdkVersion` compatibility and media-permission policy issues for Play Store launch; researched remote-config-driven dynamic app icon switching.
 
@@ -338,22 +338,9 @@ Flutter app for BYD vehicle inventory management with a dark UI theme, built on 
 
 | Stack | Scale | Notable Work |
 |---|---|---|
-| Flutter, Dart, BLoC | Internal dealership tooling | Redesigned a congested inventory list into a three-zone card layout (header row, two-column info grid, chip footer) while preserving shimmer loading, pagination, debounced search, and multi-select/export |
+| Flutter, Dart, BLoC |Production , Live on Play Store| Internal dealership tooling | Redesigned a congested inventory list into a three-zone card layout (header row, two-column info grid, chip footer) while preserving shimmer loading, pagination, debounced search, and multi-select/export |
 
 Also shipped the Test Drive Logs feature: added `PdfUtils.generateAndShareTestDriveMemofromLog`, and rebuilt the feedback dialog to handle empty states and fix ratings-row overflow with a vertical label-above-stars layout.
-
-</details>
-
-<details>
-<summary><b>🧠 Flutter AI Chat App (In Progress)</b></summary>
-
-<br/>
-
-Personal project prototyping a Flutter-based AI chat client, currently in DartPad ahead of a full local-project migration.
-
-| Stack | Scale | Notable Work |
-|---|---|---|
-| Flutter, Dart, Gemini REST API | Prototype | Direct Gemini REST integration, image input via clipboard/file picker, animated UI, voice input + TTS output |
 
 </details>
 
@@ -367,6 +354,19 @@ Company project involving a Flutter-based **Accounting & Inventory Management Sy
 | Stack                             | Scale           | Notable Work                                                                                                                      |
 | --------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Flutter, Dart, REST API, Firebase | Company Project | Accounting dashboard, day opening/closing, fiscal year management, trial balance, financial reports, Excel export, pie/bar charts |
+
+</details>
+
+<details>
+<summary><b>🧠 Flutter AI Chat App (In Progress)</b></summary>
+
+<br/>
+
+Personal project prototyping a Flutter-based AI chat client, currently in DartPad ahead of a full local-project migration.
+
+| Stack | Scale | Notable Work |
+|---|---|---|
+| Flutter, Dart, Gemini REST API | Prototype | Direct Gemini REST integration, image input via clipboard/file picker, animated UI, voice input + TTS output |
 
 </details>
 
