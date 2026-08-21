@@ -386,31 +386,21 @@ Own architecture, UI, and deployment across multiple production and experimental
 
 `Flutter` `Dart` `GetX` `BLoC` `Firebase` `REST APIs`
 
-
 ## 🟣 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avashmhzn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avashmhzn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" height="180" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Avashmhzn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avashmhzn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" height="180" />
 </div>
 
 ### 🏆 Trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=algolia&no-frame=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest,Issues,Repositories" width="100%" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Avashmhzn&theme=algolia&no-frame=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest,Issues,Repositories" width="100%" />
 </div>
 
 ### 📈 Contribution Activity
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avashmhzn&theme=react-dark&bg_color=0F0524&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avashmhzn&theme=react-dark&bg_color=0F0524&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true"/>
 </div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
