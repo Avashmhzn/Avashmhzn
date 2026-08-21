@@ -391,17 +391,18 @@ Own architecture, UI, and deployment across multiple production and experimental
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avashmhzn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avashmhzn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avashmhzn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avashmhzn&theme=tokyonight&hide_border=true&background=0F0524&ring=A78BFA&fire=7C3AED&currStreakLabel=E9D5FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avashmhzn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" height="180" />
 
 </div>
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=algolia&no-frame=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest,Issues,Repositories"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=avashmhzn&theme=algolia&no-frame=true&column=7&margin-w=10&title=Commits,Stars,Followers,PullRequest,Issues,Repositories" width="100%" />
+
 </div>
 
 ### 📈 Contribution Activity
