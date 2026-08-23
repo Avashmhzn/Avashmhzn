@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Aavash Maharjan</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+
 
 <p align="center">👷‍♂️ Currently Learning and building stuffs.<br/>
 📫 Reach me at: <a href="mailto:mhznaavash68@gmail.com">mhznaavash68@gmail.com</a><br/>
