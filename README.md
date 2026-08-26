@@ -1,10 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Aavash Maharjan</h1>
 
 
-
-📫 Reach me at: <a href="mailto:mhznaavash68@gmail.com">mhznaavash68@gmail.com</a><br/>
-📄 Portfolio: <a href="https://aavashmaharjan.com.np/">aavashmaharjan.com.np</a></p>
-
 ---
 
 ### 🔗 Connect with me
