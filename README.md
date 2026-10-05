@@ -11,7 +11,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=220&section=header&text=Aavash%20Maharjan&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%2F+Dart+Mobile+Developer;Building+at+codesc;GetX+%C2%B7+BLoC+%C2%B7+REST+%C2%B7+Firebase;Shipping+production+Android+%2F+iOS+apps" alt="Typing SVG"/>
 
 <br/>
 
