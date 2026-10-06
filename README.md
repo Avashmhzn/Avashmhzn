@@ -1,17 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Aavash Maharjan</h1>
 
 
----
-
-
-
-<img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg'/> -->
-
-<!-- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=220&section=header&text=Aavash%20Maharjan&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Engineering&descAlignY=58&descSize=18" width="100%"/>
-
-
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Nepal-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF"/>
