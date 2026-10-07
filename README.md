@@ -1,14 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Aavash Maharjan</h1>
 
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Nepal-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF"/>
-<a href="https://aavashmaharjan.com.np/"><img src="https://img.shields.io/badge/Portfolio-aavashmaharjan.com.np-7C3AED?style=for-the-badge&logo=firefox&logoColor=E9D5FF"/></a>
-<a href="https://linkedin.com/in/aavash-maharjan-2927902a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=E9D5FF"/></a>
-<a href="mailto:mhznaavash68@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=E9D5FF"/></a>
-<a href="https://github.com/avashmhzn"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=E9D5FF"/></a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=avashmhzn&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
